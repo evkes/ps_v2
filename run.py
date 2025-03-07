@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 def load_data():
-    with open('saas_growth_decline_3.json', 'r') as file:
+    with open('saas_growth_quadratic_1.json', 'r') as file:
         return json.load(file)
 
 @app.route('/')

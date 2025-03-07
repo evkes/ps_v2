@@ -1,0 +1,302 @@
+[
+    {
+        "Quarter": "Q1-2022",
+        "Countries": {
+            "USA": 5,
+            "UK": 0,
+            "India": 1,
+            "Brazil": 0,
+            "France": 0
+        },
+        "Occupations": {
+            "Software Engineering": 2,
+            "Sales": 4,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 0
+        },
+        "Capital": 2.12,
+        "Revenue": 1895000,
+        "RevenueMin": 1431000,
+        "RevenueMax": 2358000,
+        "RevenuePerEmployee": 315833,
+        "CapitalToRevenueRatio": 1.1187335092348285
+    },
+    {
+        "Quarter": "Q2-2022",
+        "Countries": {
+            "USA": 6,
+            "UK": 0,
+            "India": 1,
+            "Brazil": 0,
+            "France": 0
+        },
+        "Occupations": {
+            "Software Engineering": 3,
+            "Sales": 4,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 0
+        },
+        "Capital": 2.12,
+        "Revenue": 2252000,
+        "RevenueMin": 1692000,
+        "RevenueMax": 2812000,
+        "RevenuePerEmployee": 321714,
+        "CapitalToRevenueRatio": 0.9413854351687388
+    },
+    {
+        "Quarter": "Q3-2022",
+        "Countries": {
+            "USA": 6,
+            "UK": 1,
+            "India": 1,
+            "Brazil": 0,
+            "France": 0
+        },
+        "Occupations": {
+            "Software Engineering": 3,
+            "Sales": 4,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 1
+        },
+        "Capital": 2.12,
+        "Revenue": 2397000,
+        "RevenueMin": 1788000,
+        "RevenueMax": 3007000,
+        "RevenuePerEmployee": 299625,
+        "CapitalToRevenueRatio": 0.884438881935753
+    },
+    {
+        "Quarter": "Q4-2022",
+        "Countries": {
+            "USA": 7,
+            "UK": 1,
+            "India": 1,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 5,
+            "Sales": 4,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 1
+        },
+        "Capital": 2.12,
+        "Revenue": 3034000,
+        "RevenueMin": 2250000,
+        "RevenueMax": 3818000,
+        "RevenuePerEmployee": 303400,
+        "CapitalToRevenueRatio": 0.6987475280158207
+    },
+    {
+        "Quarter": "Q1-2023",
+        "Countries": {
+            "USA": 10,
+            "UK": 1,
+            "India": 1,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 6,
+            "Sales": 6,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 1
+        },
+        "Capital": 2.12,
+        "Revenue": 4102000,
+        "RevenueMin": 3056000,
+        "RevenueMax": 5148000,
+        "RevenuePerEmployee": 315538,
+        "CapitalToRevenueRatio": 0.5168210628961483
+    },
+    {
+        "Quarter": "Q2-2023",
+        "Countries": {
+            "USA": 12,
+            "UK": 1,
+            "India": 1,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 7,
+            "Sales": 7,
+            "Administration": 0,
+            "Product Management": 0,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 1
+        },
+        "Capital": 6.88,
+        "Revenue": 4815000,
+        "RevenueMin": 3589000,
+        "RevenueMax": 6041000,
+        "RevenuePerEmployee": 321000,
+        "CapitalToRevenueRatio": 1.4288681204569056
+    },
+    {
+        "Quarter": "Q3-2023",
+        "Countries": {
+            "USA": 16,
+            "UK": 1,
+            "India": 2,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 9,
+            "Sales": 8,
+            "Administration": 0,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 2
+        },
+        "Capital": 6.88,
+        "Revenue": 6153000,
+        "RevenueMin": 4585000,
+        "RevenueMax": 7720000,
+        "RevenuePerEmployee": 307650,
+        "CapitalToRevenueRatio": 1.1181537461400943
+    },
+    {
+        "Quarter": "Q4-2023",
+        "Countries": {
+            "USA": 18,
+            "UK": 1,
+            "India": 2,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 10,
+            "Sales": 9,
+            "Administration": 0,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 0,
+            "Legal": 2
+        },
+        "Capital": 6.88,
+        "Revenue": 6864000,
+        "RevenueMin": 5117000,
+        "RevenueMax": 8612000,
+        "RevenuePerEmployee": 312000,
+        "CapitalToRevenueRatio": 1.0023310023310024
+    },
+    {
+        "Quarter": "Q1-2024",
+        "Countries": {
+            "USA": 20,
+            "UK": 1,
+            "India": 3,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 12,
+            "Sales": 9,
+            "Administration": 0,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 1,
+            "Legal": 2
+        },
+        "Capital": 13.91,
+        "Revenue": 7543000,
+        "RevenueMin": 5612000,
+        "RevenueMax": 9474000,
+        "RevenuePerEmployee": 301720,
+        "CapitalToRevenueRatio": 1.8440938618586769
+    },
+    {
+        "Quarter": "Q2-2024",
+        "Countries": {
+            "USA": 23,
+            "UK": 1,
+            "India": 3,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 14,
+            "Sales": 9,
+            "Administration": 1,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 1,
+            "Legal": 2
+        },
+        "Capital": 13.91,
+        "Revenue": 8372000,
+        "RevenueMin": 6212000,
+        "RevenueMax": 10533000,
+        "RevenuePerEmployee": 299000,
+        "CapitalToRevenueRatio": 1.6614906832298137
+    },
+    {
+        "Quarter": "Q3-2024",
+        "Countries": {
+            "USA": 24,
+            "UK": 1,
+            "India": 3,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 14,
+            "Sales": 10,
+            "Administration": 1,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 1,
+            "Legal": 2
+        },
+        "Capital": 13.91,
+        "Revenue": 8727000,
+        "RevenueMin": 6484000,
+        "RevenueMax": 10971000,
+        "RevenuePerEmployee": 300931,
+        "CapitalToRevenueRatio": 1.593903976165922
+    },
+    {
+        "Quarter": "Q4-2024",
+        "Countries": {
+            "USA": 25,
+            "UK": 1,
+            "India": 3,
+            "Brazil": 0,
+            "France": 1
+        },
+        "Occupations": {
+            "Software Engineering": 15,
+            "Sales": 10,
+            "Administration": 1,
+            "Product Management": 1,
+            "Customer Success": 0,
+            "Finance": 1,
+            "Legal": 2
+        },
+        "Capital": 13.91,
+        "Revenue": 9083000,
+        "RevenueMin": 6743000,
+        "RevenueMax": 11423000,
+        "RevenuePerEmployee": 302767,
+        "CapitalToRevenueRatio": 1.5314323461411428
+    }
+]
